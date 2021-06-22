@@ -10,6 +10,7 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 ### Vs Cheeky
 - [Lexicord](https://twitter.com/Lexicord2) - Programmer (not very good at it) And Charter
 - [Wizord](https://www.youtube.com/channel/UClzy-sCSC2H3Xw_UDY0ndNw) - Animation, Art, and Music
+- [Lonestarr]() - Music
 
 ### Kade Engine
 - [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
