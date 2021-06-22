@@ -1,4 +1,3 @@
-![Kade Engine logo](https://lh3.googleusercontent.com/G_YwnRICOgU1czKn_3jXegH8fML03Lhcb7hiL2h9GS7mju0-J8HXerLR8y6z6e1HedlJ=s108.png)
 
 # Credits
 ### Friday Night Funkin'
